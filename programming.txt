@@ -1,0 +1,20 @@
+Valtteri Vuojärvi
+https://github.com/Vapo93/LinuxScripts
+
+Which programming tools you liked the best?
+Python by far.
+
+Which programming tools you plan to use in future?
+Python, Visual studio code, vim	
+
+Describe optimal use for Bash scripts
+Make simple scripts that use shell's abilities and automate a lot of tasks that would otherwise require a lot of commands. For example you can make a script that will automatically make git pushes and commits for you (you dont have to write so many commands anymore if you make a script that does it for you). 
+
+Describe optimal use for Python scripts
+Making protypes for you applications and programs. So you can test programs.
+
+Describe optimal use for C programming language
+If you are doing an IoT application or devoloping and building databases.
+
+Why makefiles are needed?
+A makefile is useful because (if properly defined) allows recompiling only what is needed when you make a change. 
